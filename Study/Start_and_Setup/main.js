@@ -1,3 +1,4 @@
+console.log('Hello no daemon');
 var http = require('http');
 var fs = require('fs');
 var url = require('url');
